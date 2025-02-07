@@ -59,6 +59,3 @@ export const updateUserValidator = [
     validarCampos,
     handleErrors
 ]
-
-
-
